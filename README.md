@@ -1,3 +1,3 @@
 # urban-train
 
-![](https://github.com/{github username}/{repo name}/workflows/{workflow name}/badge.svg)
+![](https://github.com/{juniorfelix998}/{urban-train}/workflows/{Python application}/badge.svg)
